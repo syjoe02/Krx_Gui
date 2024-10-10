@@ -5,7 +5,7 @@ import tkinter as tk
 from tkinter import messagebox
 from tkinter import filedialog
 
-# 데이터 가져오기 함수
+# 데이터 가져오기 함수 
 def get_market_data(market_code):
     today = datetime.today().strftime('%Y-%m-%d')
     df = stock.get_index_ohlcv("1980-01-01", today, market_code)
