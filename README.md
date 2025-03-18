@@ -1,4 +1,4 @@
-# 시황 가공 툴 만들기 (TEST version)
+# 시황 가공 툴 만들기
 
 ### 1. **종가 (Closing Price)**
 
